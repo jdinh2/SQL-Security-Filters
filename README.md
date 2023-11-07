@@ -2,8 +2,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="400" height="200" />
 </p>
 
-# **Project Description for Google Cybersecurity Program Lab**
-
 > **Disclaimer**: This documentation pertains to a **fictional** company and is part of a lab exercise in the Google Cybersecurity Program. All the data and scenarios presented here are purely fictitious and for educational purposes only.
 
 My organization is striving for enhanced security. I'm at the forefront of this endeavor, ensuring system safety, delving into potential security concerns, and orchestrating necessary updates for employee computers. Below are examples showcasing how I utilized SQL filters for security-specific tasks.
